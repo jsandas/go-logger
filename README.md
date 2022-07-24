@@ -1,5 +1,5 @@
 [![unit](https://github.com/jsandas/gologger/actions/workflows/unit.yaml/badge.svg)](https://github.com/jsandas/gologger/actions/workflows/unit.yaml)
-[![codecov](https://codecov.io/gh/jsandas/gologger/branch/master/graph/badge.svg?token=BTCVS201GQ)](https://codecov.io/gh/jsandas/gologger)
+[![codecov](https://codecov.io/gh/jsandas/gologger/branch/main/graph/badge.svg?token=KNV4ZVYP45)](https://codecov.io/gh/jsandas/gologger)
 
 # gologger
 
